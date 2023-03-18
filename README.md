@@ -1,0 +1,2 @@
+# minigrep
+Minigrep rust project
